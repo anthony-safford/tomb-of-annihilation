@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-07-15T04:59:26.582-05:00"}
+{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-07-15T17:26:35.634-05:00"}
 ---
 
 ## Basic Information
-* **Player Name:** [[Anthony Safford\|Anthony Safford]]
+* **Player Name:** Anthony
 * **Race:** High-Elf
 * **Class:** Wizard
 * **Background:** Sage
 * **Alignment:** Chaotic Good
-* **Deity:** Corellon Larethian
+* **Deity:** [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Corellon Larethian\|Corellon Larethian]]
 
 ## The Core of My Being
 * **Personality Traits:** 
