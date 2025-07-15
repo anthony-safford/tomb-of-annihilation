@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-07-15T17:26:35.634-05:00"}
+{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-07-15T17:36:03.016-05:00"}
 ---
 
 ## Basic Information
@@ -11,13 +11,17 @@
 * **Deity:** [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Corellon Larethian\|Corellon Larethian]]
 
 ## The Core of My Being
-* **Personality Traits:** 
+* **Personality Traits** 
 	* Demanding - I am impatient when explaining things to those less knowledgeable than myself.
 	* Libraries - I have visited the greatest libraries in the land and read every book upon their shelves... at least that's what I boast.
-* **Ideals:** (What principles guide them? Justice, power, compassion, glory?)
-* **Bonds:** (Who or what are they connected to? Family, a mentor, a place, an object, a cause?)
-* **Flaws:** (What weaknesses do they struggle with? Greed, fear, arrogance, naivete?)
-* **Mannerisms:** (Do they fidget, speak with a strange accent, have a nervous habit?)
+* **Ideals** 
+	* No Limits - The infinite possibility inherent in all existence should be restrained by nothing.
+* **Bonds**
+	* Question - A single question, what is the mysterious power stealing life back from the resurrected, has become an obsession for me and I am determined to discover its answer.
+* **Flaws**
+	* Obvious - Obvious solutions are less appealing or visible to me than complex solutions.
+* **Mannerisms:**
+	* TBD
 
 ## Backstory - The Road Traveled
 * **Path to Adventuring:** (Why did they leave their old life? What drove them to adventure?)
