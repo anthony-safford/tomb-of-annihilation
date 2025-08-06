@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-08-06T10:50:07.673-05:00"}
+{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-08-06T13:13:59.692-05:00"}
 ---
 
 ## Basic Information
@@ -8,7 +8,7 @@
 * **Class:** Wizard
 * **Background:** Sage
 * **Alignment:** Chaotic Good
-* **Deity:** [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Corellon Larethian\|Corellon Larethian]]
+* **Deity:** Corellon Larethian
 
 ## The Core of My Being
 * **Personality Traits** 
