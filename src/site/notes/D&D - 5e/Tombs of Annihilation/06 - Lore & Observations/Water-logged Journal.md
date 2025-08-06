@@ -3,4 +3,4 @@
 ---
 
 
-A heavily damaged journal with descriptions of the path of a wizard and his guardian traveling throughout [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Chult\|Chult]]. Can be used to find the [[D&D - 5e/Tombs of Annihilation/05 - Quests & Leads/The Journey for the Amulet/Amulet of Vorn\|Amulet of Vorn]]. 
+A heavily damaged journal with descriptions of the path of a wizard and his guardian traveling throughout [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Chult\|Chult]]. Can be used to find the [[D&D - 5e/Tombs of Annihilation/05 - Quests & Leads/The Wizard and the Guardian/Amulet of Vorn\|Amulet of Vorn]]. 
