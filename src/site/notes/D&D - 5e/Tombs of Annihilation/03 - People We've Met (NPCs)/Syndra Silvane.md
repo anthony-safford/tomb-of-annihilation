@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/03-people-we-ve-met-np-cs/syndra-silvane/","noteIcon":"","created":"2025-07-16T19:15:37.350-05:00","updated":"2025-08-06T10:35:41.169-05:00"}
+{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/03-people-we-ve-met-np-cs/syndra-silvane/","noteIcon":"","created":"2025-07-16T19:15:37.350-05:00","updated":"2025-08-06T11:32:41.912-05:00"}
 ---
 
 ## Overview
@@ -12,7 +12,7 @@ Ally
 - Died once, and raised from the dead
 	- Suffering from the [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Death Curse\|Death Curse]]
 - Has compiled the most extensive map of [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Chult\|Chult]] through many adventures
-- Staying with [[D&D - 5e/Tombs of Annihilation/03 - People We've Met (NPCs)/Wakanga'o Tamu\|Wakanga'o Tamu]] in [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Port Nyanzaru\|Port Nyanzaru]]
+- Staying with [[D&D - 5e/Tombs of Annihilation/03 - People We've Met (NPCs)/Wakanga ó Tamu\|Wakanga ó Tamu]] in [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Port Nyanzaru\|Port Nyanzaru]]
 
 ## Quests & Leads
 - [ ] 
