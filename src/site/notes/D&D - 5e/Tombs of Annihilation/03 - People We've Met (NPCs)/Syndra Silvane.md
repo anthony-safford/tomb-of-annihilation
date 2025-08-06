@@ -1,24 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/03-people-we-ve-met-np-cs/syndra-silvane/","noteIcon":"","created":"2025-07-16T19:15:37.350-05:00","updated":"2025-07-16T19:42:26.771-05:00"}
+{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/03-people-we-ve-met-np-cs/syndra-silvane/","noteIcon":"","created":"2025-07-16T19:15:37.350-05:00","updated":"2025-08-06T10:35:41.169-05:00"}
 ---
 
 ## Overview
-An old wizard, she is suffering from the [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Wasting Curse\|Wasting Curse]]
+An elderly woman wizard suffering from the [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Death Curse\|Death Curse]] 
 
-## Personality
-She is very dry and desperate for a cure
 ## Relationship to Party
-How does the party (or individual members) perceive this NPC? What is their relationship status (e.g., Ally, Neutral, Enemy, Potential Ally)?
+Ally
 
 ## Key Information / Secrets
-Any vital information they shared, secrets they hold (known or suspected), or rumors about them.
+- Died once, and raised from the dead
+	- Suffering from the [[D&D - 5e/Tombs of Annihilation/06 - Lore & Observations/Death Curse\|Death Curse]]
+- Has compiled the most extensive map of [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Chult\|Chult]] through many adventures
+- Staying with [[D&D - 5e/Tombs of Annihilation/03 - People We've Met (NPCs)/Wakanga'o Tamu\|Wakanga'o Tamu]] in [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Port Nyanzaru\|Port Nyanzaru]]
 
 ## Quests & Leads
 - [ ] 
-
-## Interactions / Notes
-Chronological notes on significant interactions with this NPC.
-- [Date] - Met at [Location]. [Brief summary of interaction].
-
-## Related Notes
--

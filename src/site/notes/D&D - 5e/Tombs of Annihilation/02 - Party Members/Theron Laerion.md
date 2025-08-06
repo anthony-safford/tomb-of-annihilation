@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-07-15T17:36:03.016-05:00"}
+{"dg-publish":true,"permalink":"/d-and-d-5e/tombs-of-annihilation/02-party-members/theron-laerion/","noteIcon":"","created":"2025-07-15T03:59:08.058-05:00","updated":"2025-08-06T10:50:07.673-05:00"}
 ---
 
 ## Basic Information
