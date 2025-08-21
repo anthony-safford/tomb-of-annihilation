@@ -3,4 +3,4 @@
 ---
 
 
-![Pasted image 20250806192125.png](/img/user/Pasted%20image%2020250806192125.png)
+![Pasted image 20250806192125.png](/img/user/D&D%20-%205e/Tombs%20of%20Annihilation/Image%20Archive/Pasted%20image%2020250806192125.png)

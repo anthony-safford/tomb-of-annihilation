@@ -5,8 +5,8 @@
 ![Pasted image 20250716195212.png](/img/user/D&D%20-%205e/Tombs%20of%20Annihilation/Image%20Archive/Pasted%20image%2020250716195212.png)
 ![Pasted image 20250716195220.png](/img/user/D&D%20-%205e/Tombs%20of%20Annihilation/Image%20Archive/Pasted%20image%2020250716195220.png)
 
-![iconmonstr-weather-107-24.png](/img/user/iconmonstr-weather-107-24.png)  7:00AM
-![iconmonstr-weather-109-24.png](/img/user/iconmonstr-weather-109-24.png)  8:00PM
+![iconmonstr-weather-107-24.png](/img/user/D&D%20-%205e/Tombs%20of%20Annihilation/Image%20Archive/iconmonstr-weather-107-24.png)  7:00AM
+![iconmonstr-weather-109-24.png](/img/user/D&D%20-%205e/Tombs%20of%20Annihilation/Image%20Archive/iconmonstr-weather-109-24.png)  8:00PM
 
 "The familiar sounds of a harbor creaking rope, slapping waves, and heavy barrels rolling across the cobblestones mingle with voices shouting and cursing in an unfamiliar language filled with clicks, inhalations, and sing-songy words that make it sounds almost musical."
 
