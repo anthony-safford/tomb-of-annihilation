@@ -13,4 +13,4 @@ Ally
 
 
 ## Quests & Leads
-- [[D&D - 5e/Tombs of Annihilation/05 - Quests & Leads/The Wizard and the Guardian/The Wizard and the Guardian\|The Wizard and the Guardian]] 
+- [[D&D - 5e/Tombs of Annihilation/05 - Quests & Leads/✓ The Wizard and the Guardian/The Wizard and the Guardian\|The Wizard and the Guardian]] 
