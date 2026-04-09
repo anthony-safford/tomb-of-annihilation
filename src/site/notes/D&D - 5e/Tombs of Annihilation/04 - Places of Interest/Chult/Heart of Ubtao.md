@@ -4,4 +4,4 @@
 
 
 An ominous object found in the jungles of [[D&D - 5e/Tombs of Annihilation/04 - Places of Interest/Chult/Chult\|Chult]], described by [[D&D - 5e/Tombs of Annihilation/03 - People of Interest/Nutesh\|Nutesh]]
-![Pasted image 20260218191637.png](/img/user/Pasted%20image%2020260218191637.png)
+![Pasted image 20260218191637.png](/img/user/D&D%20-%205e/Tombs%20of%20Annihilation/Image%20Archive/Pasted%20image%2020260218191637.png)
